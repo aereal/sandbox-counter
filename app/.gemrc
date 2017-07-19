@@ -1,0 +1,4 @@
+---
+verbose: false
+install: --no-document --quiet
+update: --no-document --quiet
